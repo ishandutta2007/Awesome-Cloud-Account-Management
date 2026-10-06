@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Account-Management"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Account-Management?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Account-Management"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Account-Management?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Account-Management/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Account-Management?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Account-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Account-Management?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -68,7 +68,7 @@ This curated directory provides side-by-side comparative insights covering both 
 
 ## 🔓 Open-Source GitHub Projects 🌟
 
-*Sorted by GitHub Star Count (Descending)* 🏆
+*Sorted by GitHub Stars_Count (Descending)* 🏆
 
 - **[Infracost](https://github.com/infracost/infracost)** [![Stars](https://img.shields.io/github/stars/infracost/infracost?style=social&color=white)](https://github.com/infracost/infracost/stargazers)  
   **Shift-left cloud cost estimates for Terraform in Pull Requests**, Apache-2.0 licensed. **12,551+ stars** 🌟. Displays cost impacts directly in pull requests before infrastructure is deployed. Supports AWS, Azure, GCP, and 1,000+ Terraform resources to prevent expensive cloud regressions in CI/CD pipelines. 💸 ⚡
@@ -114,7 +114,7 @@ Contributions are welcome! Follow these simple steps to add new cloud account ma
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add or update** entries in `README.md` keeping the Markdown formatting, tables, and emoji decorations intact.
-3. 🔗 Include official links, exact verified GitHub Star counts, licenses, and specific pricing tier details.
+3. 🔗 Include official links, exact verified GitHub Stars_Counts, licenses, and specific pricing tier details.
 4. 🚀 Submit a **Pull Request** with a concise description of your additions.
 
 ---
